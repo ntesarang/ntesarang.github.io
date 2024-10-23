@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntesarang.github.io/ntesarang.ntesarang
+Sitemap: https://ntesarang.github.io/app/ntesarang.ntesarang
+Sitemap: https://ntesarang.github.io/assets/ntesarang.ntesarang
+Sitemap: https://ntesarang.github.io/css/ntesarang.ntesarang
+Sitemap: https://ntesarang.github.io/includes/ntesarang.ntesarang
+Sitemap: https://ntesarang.github.io/item/ntesarang.ntesarang
+Sitemap: https://ntesarang.github.io/src/ntesarang.ntesarang
